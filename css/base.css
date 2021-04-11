@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+:root
+{
+    --primary-color: #F5F5F5;
+    --secondary-color: #535F55;
+}
+
+.expand-ref
+{
+    color:inherit;
+    text-decoration: none;
+}
+
+.expand-ref:hover
+{
+    font-size:1.2em;
+
+}

@@ -1,0 +1,30 @@
+@import "nav.css";
+
+
+/*about section*/
+#about
+{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    align-content: center;
+    width:100%;
+}
+
+#about div
+{
+    text-align: center;
+}
+
+/*contact section*/
+#contact
+{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    
+}
+
+#contact p
+{
+    color:inherit;
+    padding:1.5em;
+}

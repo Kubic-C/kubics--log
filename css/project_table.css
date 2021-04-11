@@ -1,0 +1,17 @@
+@import "nav.css";
+
+.project_white
+{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+    padding:0.5em;
+}
+
+.project_green
+{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    text-align: center;
+    padding:0.5em;
+}
